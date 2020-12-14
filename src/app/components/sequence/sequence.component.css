@@ -1,0 +1,19 @@
+.sequence {
+    top: 44px;
+    left: 280px;
+    width: 800px;
+    height: 298px;
+    background: var(--unnamed-color-2f2f2f) 0% 0% no-repeat padding-box;
+    background: #2F2F2F 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 4px;
+    opacity: 1;
+    padding: 15px;
+    margin: 20px;
+}
+
+.title {
+    color: #FFF;
+    font-size: 22px;
+
+}
